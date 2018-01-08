@@ -1,7 +1,9 @@
-package id.tutorialsajah.examplempvjava;
+package id.tutorialsajah.examplempvjava.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import id.tutorialsajah.examplempvjava.R;
 
 public class MainActivity extends AppCompatActivity {
 
