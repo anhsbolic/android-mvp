@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "2262699875",
+    "firebase_url": "https://learn-project-547dd.firebaseio.com",
+    "project_id": "learn-project-547dd",
+    "storage_bucket": "learn-project-547dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2262699875:android:872addb9bc3d7e07",
+        "android_client_info": {
+          "package_name": "id.tutorialsajah.examplempvjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2262699875-aspmohkln12jul6dvfe0eb34tnilnens.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5aCGycvM51nXJlqgr4bnHFLvenFMpkeY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
